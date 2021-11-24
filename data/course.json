@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Modern French Literature and Culture: North America Through French Eyes",
+  "course_description": "This course offers an analysis of the keen interest shown by France and the French in North American cultures since the eighteenth century. Not only did France contribute to the construction of both Canadian and American nations but also it has constantly delineated its identity by way of praising or criticizing North American cultures. Taught in French.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.346",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
